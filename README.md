@@ -13,8 +13,7 @@ A classic command-line Blackjack (21) card game implemented in Python. Play agai
 - [Game Flow](#game-flow)
 - [Class Diagram](#class-diagram)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎰 About the Game
 
