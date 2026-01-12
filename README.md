@@ -303,33 +303,3 @@ You have blackjack. You win! 😀
 
 Thanks for playing!
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Here are some ways you can contribute:
-
-1. 🐛 Report bugs
-2. 💡 Suggest new features
-3. 🔧 Submit pull requests
-
-### Ideas for Future Enhancements
-- [ ] Add betting system with chips
-- [ ] Implement split and double down
-- [ ] Add GUI using Tkinter or Pygame
-- [ ] Implement multiplayer mode
-- [ ] Add card counting statistics
-- [ ] Save game history to file
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-**Made with ❤️ by [MayankB1708](https://github.com/MayankB1708)**
-
-⭐ Star this repo if you found it helpful!
-
-</div>
